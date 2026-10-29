@@ -1,1 +1,2 @@
 # Tableau-Dashboard
+The Superstore Dashboard is an interactive data visualization project developed using Tableau to explore key business metrics, including sales, profits, and order performance. It enables users to compare product categories, evaluate regional performance, and identify patterns in customer purchasing behavior. These insights help businesses recognize growth opportunities, improve operational efficiency, and make informed business decisions.
